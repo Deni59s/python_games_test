@@ -4,3 +4,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+welcome_user() #вызов фунции с запросом имени из дир-ии brain_games/
