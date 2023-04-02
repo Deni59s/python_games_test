@@ -1,8 +1,8 @@
 import prompt
-
+name=''
 def welcome_user():
-	return prompt.string("Welcome to the Brain Games!\nMay I have your name?\n")
-welcome = welcome_user()
-print('Hello, '+welcome+'!')
-
-welcome_user()
+	print('Welcome to the Brain Games!')
+	name = prompt.string('May I have your name? ')
+	print("Hello,", name, '!')
+	#return name
+#print(welcome_user())
