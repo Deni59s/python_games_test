@@ -17,6 +17,7 @@ lst = []
 
 
 def generate():
+    print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     number = 0
     print('Answer "yes" if the number is even, otherwise answer "no".')
