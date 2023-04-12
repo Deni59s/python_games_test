@@ -5,7 +5,7 @@ def welcome_name(hz):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Wellcome, {name}!')
-    print(hz.about)          
+    print(hz.about)
     count = 0
     while count < 3:
         number, game_answer = hz.choice_game()
@@ -22,4 +22,3 @@ def welcome_name(hz):
             break
     else:
         print(f'Congratulation, {name}!')
-
