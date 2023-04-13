@@ -17,8 +17,8 @@ def welcome_name(hz):
         else:
             print(
                 f"'{answer}' is wrong answer ;(."
-                f"Correct answer was '{game_answer}'. "
+                f" Correct answer was '{game_answer}'. "
                 f"\nLet's try again, {name}!")
             break
     else:
-        print(f'Congratulation, {name}!')
+        print(f'Congratulations, {name}!')
