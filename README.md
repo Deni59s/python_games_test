@@ -9,3 +9,5 @@
 <a href="https://asciinema.org/a/ea9qO0Onq7DpNrRoFFdfLqRUW" target="_blank"><img src="https://asciinema.org/a/ea9qO0Onq7DpNrRoFFdfLqRUW.svg" /></a>
 ## Игра "Арифметическая прогрессия"
 <a href="https://asciinema.org/a/LwAJx2LElNcQ3i9UsYEgYc3GU" target="_blank"><img src="https://asciinema.org/a/LwAJx2LElNcQ3i9UsYEgYc3GU.svg" /></a>
+## Игра "Простое-ли число?"
+<a href="https://asciinema.org/a/xT2WoGM6QWlbwvyZ4HmxOpiYH" target="_blank"><img src="https://asciinema.org/a/xT2WoGM6QWlbwvyZ4HmxOpiYH.svg" /></a>
