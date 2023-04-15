@@ -1,14 +1,14 @@
 import prompt
 
 
-def welcome_name(hz):
+def welcome_name(games):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Wellcome, {name}!')
-    print(hz.about)
+    print(games.ABOUT)
     count = 0
     while count < 3:
-        number, game_answer = hz.choice_game()
+        number, game_answer = games.choice_game()
         print(f'Question: {number}')
         answer = prompt.string('Your answer: ')
         if game_answer == answer:

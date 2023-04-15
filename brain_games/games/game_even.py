@@ -1,7 +1,7 @@
 from random import randint
 # import prompt
 
-about = 'Answer "yes" if the number is even, otherwise answer "no".'
+ABOUT = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 """ def do_check(x):

@@ -2,7 +2,7 @@
 import random
 
 
-about = 'What is the result of the expression?'
+ABOUT = 'What is the result of the expression?'
 
 
 def choice_game():

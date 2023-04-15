@@ -1,7 +1,7 @@
 import random
 
 
-about = 'What number is missing in the progression?'
+ABOUT = 'What number is missing in the progression?'
 
 
 def choice_game():

@@ -2,7 +2,7 @@
 import random
 
 
-about = 'Find the greatest common divisor of given numbers.'
+ABOUT = 'Find the greatest common divisor of given numbers.'
 
 
 def choice_game():
