@@ -5,7 +5,7 @@ from brain_games.games import game_calc
 
 def main():
     welcome_name(game_calc)
-    #  вызов фунции с запросом имени из дир-ии brain_games/ """
+    #  вызов фунции с запросом имени из дир-ии brain_games/
 
 
 if __name__ == '__main__':
