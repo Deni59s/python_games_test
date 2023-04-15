@@ -22,7 +22,7 @@ def choice_game():
     # элементс выбранным индексом заменяем нужным символом
     numbers[true_answer_index] = ".."
     # переводим список в строку с разделителем ", "
-    str_numbers = (', '.join(map(str, numbers)))
+    str_numbers = (' '.join(map(str, numbers)))
     return str_numbers, str(true_answer)  # возвращаю в виде строки
     # так как, при вводе своего ответа,данные вводятся в виде str()
 
